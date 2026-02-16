@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<h1 align="center"><img align="center" style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/86336670?v=4" width="200px;" alt=""/><br>MiniRPG — Projeto PHP (Mini RPG)</h1>
+<h1 align="center">MiniRPG — Projeto PHP (Mini RPG)</h1>
 
 <p align="center">
   MiniRPG é um pequeno sistema RPG orientado a objetos em PHP. O projeto demonstra modelagem de domínio com classes como `Personagem`, `Arma`, `Ataque` e `Dano`, além de uma entrada de execução em `src/Application/main.php` e uma suíte de testes em `tests/MiniRPGTest.php`.
@@ -121,9 +121,13 @@ Caso não haja `phpunit` nas dependências, adicione via Composer ou execute os 
 
 ---
 
-## 👨‍💻 Contribuidores
+## 👨‍💻 Contribuidor
 
-- Mateus A. Ferreira — desenvolvimento e modelagem do domínio
+<table>
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86336670?v=4" width="100px;"/><br/><a href="https://github.com/ferreiramateusalencar">Mateus A. Ferreira<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Líder & desenvolvedor">🌐</a></td>
+  </tr>
+</table>
 
 ---
 
