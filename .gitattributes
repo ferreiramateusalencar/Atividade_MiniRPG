@@ -1,0 +1,5 @@
+# Auto normalize line endings
+* text=auto
+
+# Ensure PHP files use LF
+*.php text eol=lf

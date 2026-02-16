@@ -1,0 +1,8 @@
+{
+  "name": "mateus/minirpg",
+  "autoload": {
+    "psr-4": {
+      "MiniRPG\\": "src/"
+    }
+  }
+}
